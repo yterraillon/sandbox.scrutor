@@ -6,7 +6,9 @@ H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Api.runtimeconfig.json
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Api.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\ref\Api.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Api.pdb
+H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Scrutor.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -25,5 +27,3 @@ H:\Projects\sandbox.scrutor\Api\obj\Debug\net6.0\Api.dll
 H:\Projects\sandbox.scrutor\Api\obj\Debug\net6.0\ref\Api.dll
 H:\Projects\sandbox.scrutor\Api\obj\Debug\net6.0\Api.pdb
 H:\Projects\sandbox.scrutor\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
-H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-H:\Projects\sandbox.scrutor\Api\bin\Debug\net6.0\Scrutor.dll
